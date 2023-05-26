@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Alex Johnson (@johnsonAFJ)
-- 👀 I’m interested in Graphic Design, Web Design, Screen Printing, and Marketing
-- 🌱 I’m currently learning Marketing & Web Design
-- 💞️ I’m looking to collaborate on any web design projects.
+
 <!--- - 📫 How to reach me ...--->
 
 <!---
